@@ -15,4 +15,4 @@
 | Sound effects (one at a time, mute switch) | `js/sounds.js`, `sounds/*.wav` | Buttons, stars, forms |
 | Strict email validation (bug fix) | `js/validation.js` | Sign Up, Contact, popup, booking form |
 
-Deployed website URL: _add the GitHub Pages / Netlify link here after publishing_
+Deployed website URL: https://rashkennurdaulet.github.io/cityzoo_assignment5/
